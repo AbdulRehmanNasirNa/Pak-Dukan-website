@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import Typography from "@material-ui/core/Typography";
 import { useTheme } from "@material-ui/core";
 import useMediaQuery from "@material-ui/core/useMediaQuery";

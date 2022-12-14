@@ -125,5 +125,5 @@ export default function AuthProvider(props) {
     >
       {props.children}
     </AuthContext.Provider>
-  );
+  )
 }

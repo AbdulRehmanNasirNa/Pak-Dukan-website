@@ -1,3 +1,7 @@
+
+import React from 'react';
+
+
 import { priceRange } from "../../data/products";
 import { makeStyles } from "@material-ui/core";
 import Typography from "@material-ui/core/Typography";

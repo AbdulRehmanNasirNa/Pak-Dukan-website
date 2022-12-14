@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import { makeStyles } from "@material-ui/core";
 import Slider from "react-slick";
 import Grid from "@material-ui/core/Grid";

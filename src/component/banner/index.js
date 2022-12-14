@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import Slider from "react-slick";
 import { makeStyles } from "@material-ui/core";
 import "./banner.css";

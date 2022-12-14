@@ -1,3 +1,5 @@
+
+import React from 'react';
 import { useHistory, useParams } from "react-router-dom";
 import ProductsDetails from "./products-details";
 import { getProductsId } from "../../data/products";

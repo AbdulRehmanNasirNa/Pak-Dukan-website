@@ -1,3 +1,6 @@
+import React from 'react';
+
+
 import { createMuiTheme, ThemeProvider } from "@material-ui/core";
 import { Switch, Route } from "react-router-dom";
 import Header from "./component/header";

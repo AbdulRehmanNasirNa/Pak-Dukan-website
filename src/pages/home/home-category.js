@@ -1,3 +1,6 @@
+
+import React from 'react';
+
 import { products } from "../../data/featured-products";
 import { Link } from "react-router-dom";
 import Typography from "@material-ui/core/Typography";

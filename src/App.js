@@ -1,3 +1,7 @@
+import React from 'react';
+
+
+
 import AppRouter from "./AppRouter";
 import CartProvider from "./helpers/cartProvider";
 import FilterProvider from "./helpers/filterProvider";
